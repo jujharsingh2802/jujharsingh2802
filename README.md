@@ -5,7 +5,8 @@
 - 🔭 Currently working on [AnimHub](https://github.com/jujharsingh2802/AnimHub)
 - 🌱 Learning and implementing complex MongoDB aggregate pipelines
 - 💼 Available for internships and full-time opportunities
-- 🎓 [Coursera](https://coursera.org) certified in Data Structures and Algorithms
+- 🎓 [[Coursera](https://coursera.org)](https://www.coursera.org/account/accomplishments/certificate/ZPZQNNB4PRJ3) certified in Data Structures and Algorithms
+- 🏅 **Certificate of Excellence** for being a Fresher's Track Finalist in Hacmol 3.0, organized by Google Developer Student Clubs at NIT Jalandhar. The jury commended my enthusiasm and optimism for technical advancement.
 
 ---
 
@@ -42,6 +43,13 @@ For quick responses, connect with me on:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jujhar-singh-sandhu-9a0916283/)
 [![Email](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sjujhar532@gmail.com)
+
+---
+
+## 📈 Coding Profiles
+
+- 💻 [LeetCode](https://leetcode.com/jujhar_01/) - Solved 350+ coding problems
+- 🔗 [CodeStudio](https://www.naukri.com/code360/profile/jujhar_01) - Solved over 600 coding and MCQ questions
 
 ---
 
