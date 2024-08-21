@@ -5,7 +5,7 @@
 - 🔭 Currently working on [AnimHub](https://github.com/jujharsingh2802/AnimHub)
 - 🌱 Learning and implementing complex MongoDB aggregate pipelines
 - 💼 Available for internships and full-time opportunities
-- 🎓 [[Coursera](https://coursera.org)](https://www.coursera.org/account/accomplishments/certificate/ZPZQNNB4PRJ3) certified in Data Structures and Algorithms
+- 🎓 [Coursera](https://www.coursera.org/account/accomplishments/certificate/ZPZQNNB4PRJ3) certified in Data Structures and Algorithms
 - 🏅 **Certificate of Excellence** for being a Fresher's Track Finalist in Hacmol 3.0, organized by Google Developer Student Clubs at NIT Jalandhar. The jury commended my enthusiasm and optimism for technical advancement.
 
 ---
