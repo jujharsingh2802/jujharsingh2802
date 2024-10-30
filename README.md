@@ -48,8 +48,8 @@ For quick responses, connect with me on:
 
 ## 📈 Coding Profiles
 
-- 💻 [LeetCode](https://leetcode.com/jujhar_01/) - Solved 350+ coding problems
-- 🔗 [CodeStudio](https://www.naukri.com/code360/profile/jujhar_01) - Solved over 600 coding and MCQ questions
+- 💻 [LeetCode](https://leetcode.com/jujhar_01/) - Solved 450+ coding problems
+- 🔗 [CodeStudio](https://www.naukri.com/code360/profile/jujhar_01) - Solved over 900 coding and MCQ questions
 
 ---
 
