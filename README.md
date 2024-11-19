@@ -2,7 +2,7 @@
 
 **Full-stack web developer** | **Competitive Programmer** | **Tech Enthusiast**
 
-- 🔭 Currently working on [AnimHub](https://github.com/jujharsingh2802/AnimHub)
+- 🔭 Currently working on [frontend](https://github.com/jujharsingh2802/animhub-frontend) of [AnimHub](https://github.com/jujharsingh2802/animhub)
 - 🌱 Learning and implementing complex MongoDB aggregate pipelines
 - 💼 Available for internships and full-time opportunities
 - 🎓 [Coursera](https://www.coursera.org/account/accomplishments/certificate/ZPZQNNB4PRJ3) certified in Data Structures and Algorithms
