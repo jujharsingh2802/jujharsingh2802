@@ -1,6 +1,6 @@
 # Jujhar Singh Sandhu
 
-**Full-stack web developer** | **Competitive Programmer** | **Tech Enthusiast**
+**R & D Intern @HeroMotors** | **Full-stack web developer** | **Competitive Programmer** | **Tech Enthusiast**
 
 - 🔭 Currently working on [frontend](https://github.com/jujharsingh2802/animhub-frontend) of [AnimHub](https://github.com/jujharsingh2802/animhub)
 - 🌱 Learning and implementing complex MongoDB aggregate pipelines
